@@ -10,7 +10,7 @@ PledgeVault is a production-grade, decentralized crowdfunding platform built on 
 ---
 
 ## 🚀 Live Demo & Resources
-- **Live Demo Video:** [Watch on Google Photos](https://photos.app.goo.gl/jjSBubUgMHqUGzAE8)
+- **Live Demo Video:** [Watch on Google Photos](https://photos.app.goo.gl/hEYAaDZPe7zbgv6b9)
 - **Deployed Testnet Interface:** [https://crowfunding-dapp-zeta.vercel.app/](https://crowfunding-dapp-zeta.vercel.app/)
 
 ---
