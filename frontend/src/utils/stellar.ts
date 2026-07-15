@@ -42,8 +42,7 @@ async function simulateAndSign(
   }
 
   // Assemble the transaction with simulation data
-  // @ts-ignore
-  const assembledTx = rpc.assembleTransaction(tx, networkPassphrase, simulation).build();
+  const assembledTx = rpc.assembleTransaction(tx, simulation as any).build();
   
   // Sign with Freighter
   const signedResult: any = await signTransaction(assembledTx.toXDR(), { networkPassphrase });
